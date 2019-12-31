@@ -22,7 +22,7 @@
     "babel-root-slash-import": "1.x.x",
     "chai": "3.x.x",
     "enzyme": "1.x.x",
-    "eslint": "1.10.x",
+    "eslint": ">=4.18.2",
     "eslint-plugin-react": "3.15.x",
     "mocha": "2.x.x",
     "react-addons-test-utils": ">=0.14.3 <=0.15.0",
